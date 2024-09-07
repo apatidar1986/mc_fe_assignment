@@ -28,6 +28,12 @@ This project is a React-based application that displays and visualizes data abou
 - TypeScript
 - Styled Components
 
+## Boilerplate
+
+- Create react app
+- Shimmer effect then twik that
+- Theme
+
 ## Prerequisites
 
 - Node.js (v14 or later) i used v20.15.0
