@@ -41,7 +41,7 @@ interface BookItemProps {
 }
 
 const BookItem: React.FC<BookItemProps> = ({ book }) => {
-    const placeholderImage = `https://via.placeholder.com/100x150.png?text=${'Book'}`;
+    const placeholderImage = `./image.png`;
   return (
     <BookItemContainer>
        <BookImage src={placeholderImage} alt={`Cover of ${book.Name}`} />
